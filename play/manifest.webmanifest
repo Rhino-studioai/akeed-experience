@@ -1,0 +1,16 @@
+{
+  "name": "The Akeed Experience",
+  "short_name": "Akeed",
+  "description": "A FlyAkeed game: walk the office and the airport, fix trips and collect every stamp.",
+  "start_url": "./game.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a5fe8",
+  "theme_color": "#0a5fe8",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
